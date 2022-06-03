@@ -18,5 +18,9 @@ Email warm up is the process of preparing an email address, domain and / or IP t
 
 - Log file : TransparentX can write a log file that contains informations like (Finished emails - emails with issue - screen record) that work in a local apache server and you can view it from any other Device in the same network using your IP .
 
-- Security: TransparentX Can work with a google sheet that have informations about every use of the tool like (mac adresse - Last Activity - Windows name - attempts and Permission field where you can allow or denied the connected device from using this tool) . 
+- Google sheet Log : Also TransparentX  contains a google sheet log where you can find all finished emails and emails with issue with their password and proxy ip.
+
+- Security: TransparentX Can work with a google sheet that have informations about every use of the tool like (mac adresse - Last Activity - Windows name - attempts and Permission field where you can allow or denied the connected device from using this tool) .
+
+- Proxy : Supported.
 
